@@ -1,0 +1,3 @@
+﻿  test.cpp
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol SDL_main referenced in function main_getcmdline
+C:\Users\ql364\source\repos\btltest\x64\Debug\btltest.exe : fatal error LNK1120: 1 unresolved externals
